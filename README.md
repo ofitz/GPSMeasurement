@@ -22,3 +22,11 @@ The GPS Point are pushed to the Cloud and the Virtual Machine calculated the are
 * Azure Web-App
 * Azure Powe
 
+###Steps
+####Config/flash ESP8266
+####ESP8266 connect with GPS Modul
+####ESP8266 connect with TFT Shield 1.8
+####Config Azure IoT Platform
+####Register the "Aremesure" in the IoT Cloud
+####Send GPS Points too the IoT Cloud
+####Receive GPS Points from IoT Cloud
