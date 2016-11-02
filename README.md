@@ -17,4 +17,7 @@ GPS tracking area with esp8266 and visualization Platform
 * Azure Powe
 
 The idea is, build a small device with TFT 1.8 Display and three buttons. First button is for start tracking my position over GPS, second button is to mark and save the next gps position and the third button is for mark the end of area mesuaring.
-[![N|Solid](https://github.com/ofitz/GPSMeasurement/blob/master/images/Areamesure.png)]
+
+![N|Solid](https://github.com/ofitz/GPSMeasurement/blob/master/images/Areamesure.png)
+
+The GPS Point are pushed to the Cloud and the Virtual Machine calculated the area in m² using the Points. 
